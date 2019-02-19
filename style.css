@@ -8,3 +8,10 @@
   box-shadow:none;
   border:none;
 }
+
+.grey-background {
+  padding: 30px 0 0 0;
+  background-color: #1a1c1e;
+  color:white;
+  height:200px;
+}
